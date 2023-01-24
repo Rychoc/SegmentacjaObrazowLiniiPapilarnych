@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M7MSp/L5tTchLRPXX0QTfY3y3TTrdxylDP889HlVhfg3rrpOigZPAnVemILco2VjiIZuEkA+6Hkr67Om4fORjA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\adamj\\source\\repos\\DanoYOLOKonwerser\\DanoYOLOKonwerser\\DanoYOLOKonwerser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamj\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\adamj\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\adamj\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
